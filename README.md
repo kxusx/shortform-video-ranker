@@ -1,4 +1,4 @@
-# Shortform Video Search Playground
+# Shortform Video Search
 This project is a POC for short-form video retrieval and reranking. Everything lives in `code.ipynb`, making it easy to iterate on indexing, searching, and experimenting with LLM rerankers.
 
 ## How the pipeline works
